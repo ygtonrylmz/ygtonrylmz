@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onur Yılmaz</h1>
-<h3 align="center">Full Stack Developer from Turkey</h3>
+<h3 align="center">Senior UX Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Blockchain, ML, DL**
 
